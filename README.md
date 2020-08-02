@@ -188,6 +188,8 @@ heroku run rails db:migrate ## this may take several minutes to run
 heroku run rails db:seed
 ```
 
+## Expected Outcome
 
+   Feel free to explore mine at <a href=https://actionmap03.herokuapp.com/>https://actionmap03.herokuapp.com/ </a>.
 
-
+   Specifically, go to login and try loggign inwith either google or your github in an incognito window. You should be able to log in with your  Google and Github logint.
