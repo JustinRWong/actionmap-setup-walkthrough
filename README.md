@@ -192,4 +192,4 @@ heroku run rails db:seed
 
    Feel free to explore mine at <a href=https://actionmap03.herokuapp.com/>https://actionmap03.herokuapp.com/ </a>.
 
-   Specifically, go to login and try logginng in with either google or your github in an incognito window. You should be able to log in with your Google and Github logint.
+   Specifically, go to Login and try logginng in with either google or your github in an incognito window. You should be able to log in with your Google and Github login.
