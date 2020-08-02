@@ -121,7 +121,7 @@ EDITOR=vim rails credentials:edit
    - GOOGLE_CLIENT_SECRET
    - GOOGLE_API_KEY
 
-### Github Credentials 
+#### Github Credentials 
 
    For github credentials, go to https://github.com/settings/developers and click `New OAuth App`. 
 
